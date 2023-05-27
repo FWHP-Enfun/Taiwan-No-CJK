@@ -7,6 +7,10 @@ https://data.gov.tw/dataset/5961
 
 The lack of characters in Taiwan is changed based on the fonts of the full font library
 
+字體是SIL Open Font License 1.1授權
+
+The font is authorized by SIL Open Font License 1.1
+
 ![](https://raw.githubusercontent.com/FWHP-Enfun/Taiwan-No-CJK/main/%E5%8E%9F%E6%9C%AC.png)
 
 製作簡單粗暴，只是把所有漢字改成缺字
