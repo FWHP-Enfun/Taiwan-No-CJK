@@ -1,5 +1,5 @@
 # 臺灣缺字 Taiwan No CJK
-![](https://raw.githubusercontent.com/FWHP-Enfun/Taiwan-No-CJK/main/%E7%BC%BA%E5%AD%97.png)
+![](https://github.com/FWHP-Enfun/Taiwan-No-CJK/blob/main/Picture/%E7%BC%BA%E5%AD%97.png)
 
 https://data.gov.tw/dataset/5961
 
@@ -11,7 +11,7 @@ The lack of characters in Taiwan is changed based on the fonts of the full font 
 
 The font is authorized by SIL Open Font License 1.1
 
-![](https://raw.githubusercontent.com/FWHP-Enfun/Taiwan-No-CJK/main/%E5%8E%9F%E6%9C%AC.png)
+![](https://github.com/FWHP-Enfun/Taiwan-No-CJK/blob/main/Picture/%E5%8E%9F%E6%9C%AC.png)
 
 製作簡單粗暴，只是把所有漢字改成缺字
 
@@ -35,6 +35,6 @@ It is best to install A and B together, because of the Taike character problem, 
 
 The user is to use the missing font first, and then use the font you want (simplified, Japanese font)
 
-![](https://raw.githubusercontent.com/FWHP-Enfun/Taiwan-No-CJK/main/%E6%97%A5%E6%96%87%E7%AF%84%E4%BE%8B.png)
+![](https://github.com/FWHP-Enfun/Taiwan-No-CJK/blob/main/Picture/%E7%B0%A1%E9%AB%94%E7%AF%84%E4%BE%8B.png)
 
-![](https://raw.githubusercontent.com/FWHP-Enfun/Taiwan-No-CJK/main/%E7%B0%A1%E9%AB%94%E7%AF%84%E4%BE%8B.png)
+![](https://github.com/FWHP-Enfun/Taiwan-No-CJK/blob/main/Picture/%E6%97%A5%E6%96%87%E7%AF%84%E4%BE%8B.png)
